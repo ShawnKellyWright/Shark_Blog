@@ -1,3 +1,40 @@
+.jawsPoster {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px groove red;
+}
+
+
+#home {
+    color: rgb(192, 208, 208);
+    background-color: rgb(16, 96, 120);
+}
+
+#about {
+    color: rgb(192, 208, 208);
+    background-color: rgb(16, 96, 120);
+}
+
+#contact {
+    color: rgb(192, 208, 208);
+    background-color: rgb(16, 96, 120);
+}
+
 h1 {
+    text-align: center;
+    letter-spacing: 35px;
+    font-family: fantasy;
+    color: rgb(80, 120, 128);
+}
+
+p {}
+
+a {
+    text-decoration: none;
+}
+
+footer {
     text-align: center;
 }
